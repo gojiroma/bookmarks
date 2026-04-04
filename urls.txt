@@ -62,3 +62,4 @@ https://shopping.bookoff.co.jp/
 https://www.nhk.or.jp/
 https://www.amazon.co.jp/gp/kindle/ku/ku_central
 https://zines.raw-fi.com/
+https://chat.mistral.ai/chat
