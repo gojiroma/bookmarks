@@ -48,3 +48,4 @@ https://www.tampermonkey.net/
 https://benri.com/kensaku/index.php
 https://finance.yahoo.co.jp/
 https://www.hyuki.com/kokoro/
+https://dev.classmethod.jp/articles/claudememo-20260403/
