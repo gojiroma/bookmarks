@@ -84,3 +84,4 @@ https://kibe.la/
 https://cwt.jp/
 https://matrix.org/
 https://calil.jp/
+https://dev.to/
