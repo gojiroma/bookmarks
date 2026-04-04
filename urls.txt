@@ -73,3 +73,4 @@ https://www.oshimaland.co.jp/
 https://ariadne.jp/
 https://www.amazon.co.jp/gp/video/settings/watch-history/
 https://read.amazon.co.jp/kindle-library
+https://read.amazon.co.jp/kindle-library?originType=KINDLE_UNLIMITED
