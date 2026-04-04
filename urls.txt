@@ -90,3 +90,4 @@ https://time.is/clock
 https://www.bigtimer.net/?minutes=10&repeat=false
 https://bany.bz/
 https://adeac.jp/
+https://ascii.jp/
