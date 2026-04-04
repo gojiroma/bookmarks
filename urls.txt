@@ -86,3 +86,4 @@ https://matrix.org/
 https://calil.jp/
 https://dev.to/
 https://sarf.jp/
+https://time.is/clock
