@@ -47,3 +47,4 @@ https://github.com/gojiroma/bookmarks
 https://www.tampermonkey.net/
 https://benri.com/kensaku/index.php
 https://finance.yahoo.co.jp/
+https://www.hyuki.com/kokoro/
