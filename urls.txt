@@ -87,7 +87,7 @@ https://calil.jp/
 https://dev.to/
 https://sarf.jp/
 https://time.is/clock
-https://www.bigtimer.net/?minutes=10&repeat=false
+https://www.bigtimer.net
 https://bany.bz/
 https://adeac.jp/
 https://ascii.jp/
@@ -118,6 +118,5 @@ https://saikura.info/
 https://navi-q.jp/
 https://navi-q.jp/
 https://qiita.com/
-https://blank.page/welcome
 https://blank.page/
 https://github.com/gojiroma/bookmarks/edit/main/urls.txt
