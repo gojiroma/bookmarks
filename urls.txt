@@ -87,3 +87,4 @@ https://calil.jp/
 https://dev.to/
 https://sarf.jp/
 https://time.is/clock
+https://www.bigtimer.net/?minutes=10&repeat=false
