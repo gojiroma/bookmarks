@@ -75,3 +75,4 @@ https://www.amazon.co.jp/gp/video/settings/watch-history/
 https://read.amazon.co.jp/kindle-library
 https://read.amazon.co.jp/kindle-library?originType=KINDLE_UNLIMITED
 https://read.amazon.co.jp/notebook?ref_=kcr_notebook_lib&language=ja-JP
+https://www.amazon.co.jp/kindle-dbs/ku/ku-central
