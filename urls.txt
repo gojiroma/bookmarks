@@ -122,3 +122,4 @@ https://blank.page/
 https://github.com/gojiroma/bookmarks/edit/main/urls.txt
 
 https://blog.glitch.com/post/goodbye-glitch
+https://fast.com/ja
