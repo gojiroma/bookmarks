@@ -50,3 +50,4 @@ https://finance.yahoo.co.jp/
 https://www.hyuki.com/kokoro/
 https://dev.classmethod.jp/articles/claudememo-20260403/
 https://apfel.franzai.com/
+https://mail.zoho.jp/zm/#mail/folder/inbox
