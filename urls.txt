@@ -3069,3 +3069,4 @@ https://boo.poet.blue/
 https://www.lifehacker.jp/article/161116exporter/
 https://pi.poet.blue/
 https://nitter.net/de3dsoul/status/2040489580655452391#m
+chrome-native://newtab/
