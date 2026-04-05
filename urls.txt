@@ -3062,3 +3062,4 @@ https://www.amazon.co.jp/events/pointupcampaign?ref=puc_meter_on_cart
 https://yukyu.net/
 https://docs.komagata.org/6444
 https://koharuoto.net/blog
+http://127.0.0.1:5500/jan%E3%82%B3%E3%83%BC%E3%83%89%E6%9B%B8%E7%B1%8D%E6%83%85%E5%A0%B1%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%88%E6%9B%B8%E6%A3%9A%E9%A2%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%EF%BC%89.html?JAN%E3%82%B3%E3%83%BC%E3%83%89%E6%9B%B8%E7%B1%8D%E6%83%85%E5%A0%B1%E3%83%84%E3%83%BC%E3%83%AB
