@@ -3072,3 +3072,4 @@ https://nitter.net/de3dsoul/status/2040489580655452391#m
 chrome-native://newtab/
 https://note.com/campintheair/n/n3d14ed1959fa
 https://nitter.net/fukaya_cinema
+https://nitter.net/kinema_help
